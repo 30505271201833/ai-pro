@@ -1,2 +1,43 @@
-# ai-pro
-A Tic-Tac-Toe game implemented in Python where the player competes against an intelligent AI.  The AI uses the Minimax algorithm enhanced with Alpha-Beta Pruning to make optimal decisions.  This project demonstrates concepts of Game AI and Search Algorithms.
+لعبة XO بالذكاء الاصطناعي (Tic-Tac-Toe AI)
+
+لعبة XO (Tic-Tac-Toe) مطورة باستخدام لغة Python، حيث يلعب المستخدم ضد كمبيوتر ذكي يعتمد على خوارزميات الذكاء الاصطناعي لاتخاذ أفضل القرارات.
+
+
+
+فكرة المشروع
+
+المشروع بيطبق مفاهيم الذكاء الاصطناعي في الألعاب (Game AI)، عن طريق استخدام خوارزميات البحث لاتخاذ القرار الأفضل في كل حركة.
+
+الكمبيوتر في اللعبة بيعتمد على:
+
+- خوارزمية Minimax لتحليل جميع الاحتمالات الممكنة
+- تقنية Alpha-Beta Pruning لتسريع الأداء وتقليل عدد العمليات
+
+وده بيخلي الكمبيوتر يلعب بشكل مثالي (صعب جدًا أو مستحيل يتغلب عليه).
+
+
+
+المميزات
+
+- اللعب ضد كمبيوتر ذكي
+- اتخاذ قرارات مثالية باستخدام Minimax
+- تحسين الأداء باستخدام Alpha-Beta Pruning
+- واجهة بسيطة وسهلة (Console)
+- تجربة لعب ممتعة وتحدي حقيقي
+
+التقنيات المستخدم
+- Python
+- Minimax Algorithm
+- Alpha-Beta Pruning
+- Game AI
+- Search Algorithms
+
+
+
+ طريقة التشغيل
+
+1. تأكد إن Python متثبت عندك  
+2. اعمل Clone للمشروع:
+
+`bash
+git clone https://github.com/your-username/your-repo-name.git
